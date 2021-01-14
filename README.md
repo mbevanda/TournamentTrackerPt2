@@ -1,2 +1,2 @@
 # TournamentTrackerPt2
-Application for tracking tournaments with UI built on ASP.NET MVC pattern.
+This is part 2 of existing Tournament tracker application where WinForm UI is replaced with ASP.NET MVC.
