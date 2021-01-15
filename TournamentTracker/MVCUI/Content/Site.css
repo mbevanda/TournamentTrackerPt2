@@ -22,3 +22,15 @@ select,
 textarea {
     max-width: 280px;
 }
+
+.tourney-display {
+    margin-left: 20px;
+}
+
+.tourney-display > li {
+    margin-bottom: 10px;
+}
+
+.tourney-display > li > a {
+    font-size: 20px
+}
