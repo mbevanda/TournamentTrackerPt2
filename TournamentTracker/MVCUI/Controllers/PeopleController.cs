@@ -24,6 +24,7 @@ namespace MVCUI.Controllers
         }
 
         // POST: People/Create
+        [ValidateAntiForgeryToken()]
         [HttpPost]
         public ActionResult Create(PersonModel p)
         {
